@@ -1,6 +1,6 @@
-# MyApp
+# DocView
 
-MyApp is an Android application designed to facilitate user login and image upload. This README provides a detailed overview of the app, its features, and instructions for setting it up and running.
+DocView is an Android application designed to facilitate patient and doctor login, as well as medical image upload and viewing. This README provides a detailed overview of the app, its features, and instructions for setting it up and running.
 
 ## Features
 
@@ -11,8 +11,12 @@ MyApp is an Android application designed to facilitate user login and image uplo
 
 ## Screenshots
 
-![Login Screen](screenshots/login_screen.png)
-![Upload Screen](screenshots/upload_screen.png)
+![pic1](https://github.com/user-attachments/assets/e7798d59-7e45-4af4-b994-c24eb63207dd)
+![pic2](https://github.com/user-attachments/assets/8ce7a4b8-503c-4a11-a277-cd3af4c76b9d)
+![pic3](https://github.com/user-attachments/assets/129431a2-e981-415c-be32-8ba62b591132)
+![pic4](https://github.com/user-attachments/assets/b1b1188b-f9c0-4075-b3db-e1e27c48b480)
+![pic5](https://github.com/user-attachments/assets/a86250dc-de71-4752-8b0b-3e82e6699bfb)
+![pic6](https://github.com/user-attachments/assets/3d462426-e037-45f6-ac3c-ec8e1d0f412e)
 
 ## Requirements
 
